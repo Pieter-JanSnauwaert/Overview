@@ -1,0 +1,28 @@
+/* CSS Document */
+body {
+font-family: verdana;
+font-size: 11px;
+}
+
+a:link { color: blue; }
+a:visited {color: red;}
+a:hover {color:green;}
+
+.omgeving {
+font-weight: bold;
+text-align: center;
+}
+
+table {
+font-family: verdana;
+font-size: 12px;
+
+}
+.news {
+   font-family: verdana;
+   font-size: 12px;
+   font-weight: bold;
+   text-align: left;
+   color: crimson;
+}
+
